@@ -1,2 +1,6 @@
-master
+<<<<<<< HEAD
+master:
 
+=======
+master
+>>>>>>> feature1
