@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-master
-
-=======
-master
->>>>>>> feature1
+mmm
